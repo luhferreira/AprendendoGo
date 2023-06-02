@@ -19,3 +19,9 @@ mkdir -p src/hello
 ~/go/src/hello/
 touch hello.go
 
+~/go/src/hello/
+go install
+
+~/go/bin
+./hello
+
