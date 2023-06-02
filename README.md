@@ -15,8 +15,11 @@ Instalação (Linux e MacOS)
 
 _Estrutura inicial
 go
+
 ├── bin
+
 └── src
+
     └── hello
 _Estrutura resultante
 go
