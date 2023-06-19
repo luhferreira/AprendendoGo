@@ -40,3 +40,17 @@ go
 - Executar no diretório ~/go/src/hello/
 - Executar no diretório ~/go/bin
 - BOOM! Você fez seu primeiro programa em Go!
+
+# API Rest
+- Crie uma API do zero com Go
+- Integre sua API Go com um banco de dados sendo executado no Docker
+- Aprenda a utilizar o GORM, o ORM mais famoso do Go
+- Saiba como criar um middleware e evite código duplicado
+- Integre sua API Go com um front-end React
+
+# Aulas
+- Json, Request, Response e Go 
+- Roteador, recursos por ID e Docker
+- Conexão com banco e exibindo os dados
+- Criando, deletando e editando com Gorm
+- Middleware e integração com front-end
