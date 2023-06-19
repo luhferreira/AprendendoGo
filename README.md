@@ -14,7 +14,7 @@ Instalação (Linux e MacOS)
 - Trecho de código no VS Code
 
 _Estrutura inicial
-
+```
 go
 
 ├── bin
@@ -22,9 +22,9 @@ go
 └── src
 
     └── hello
-    
+```    
 _Estrutura resultante
-
+```
 go
 
 ├── bin
@@ -34,7 +34,7 @@ go
     └── hello
     
         └── hello.go
-        
+ ```       
         
 # Executando
 - Executar no diretório ~/go/src/hello/
